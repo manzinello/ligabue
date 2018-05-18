@@ -1,0 +1,24 @@
+{
+  "name": "ligabue",
+  "version": "0.1.0",
+  "description": "Luciano Ligabue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manzinello/ligabue.git"
+  },
+  "keywords": [
+    "giustizia"
+  ],
+  "bin": {
+    "ligabue": "./index.js"
+  },
+  "author": "Matteo Manzinello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manzinello/ligabue/issues"
+  }
+}
